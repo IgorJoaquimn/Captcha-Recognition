@@ -1,3 +1,4 @@
 model*
-classifier*
-checkpoints/*
+*.tf
+*.keras
+*/checkpoints/
